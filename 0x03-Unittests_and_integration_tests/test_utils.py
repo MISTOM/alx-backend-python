@@ -2,6 +2,7 @@
 """A module for testing the utils module.
 """
 import unittest
+from typing import Dict, Union, Tuple
 from unittest.mock import patch, Mock
 from parameterized import parameterized
 
